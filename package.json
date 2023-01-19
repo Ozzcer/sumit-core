@@ -1,0 +1,19 @@
+{
+  "name": "sumit-core",
+  "version": "0.0.0",
+  "description": "Game engine for SUMIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ozzcer/sumit-core.git"
+  },
+  "author": "Oliver Harrison",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ozzcer/sumit-core/issues"
+  },
+  "homepage": "https://github.com/Ozzcer/sumit-core#readme"
+}
